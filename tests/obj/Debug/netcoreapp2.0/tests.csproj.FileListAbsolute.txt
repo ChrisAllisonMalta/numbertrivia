@@ -1,0 +1,15 @@
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\tests.deps.json
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.json
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\tests.dll
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\tests.pdb
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\api.dll
+C:\DemoProjects\numbertrivia\tests\bin\Debug\netcoreapp2.0\api.pdb
+C:\DemoProjects\numbertrivia\tests\obj\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache
+C:\DemoProjects\numbertrivia\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+C:\DemoProjects\numbertrivia\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+C:\DemoProjects\numbertrivia\tests\obj\Debug\netcoreapp2.0\tests.dll
+C:\DemoProjects\numbertrivia\tests\obj\Debug\netcoreapp2.0\tests.pdb

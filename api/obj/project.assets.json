@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\DemoProjects\\numbertrivia\\api\\api.csproj",
+      "projectUniqueName": "C:\\DemoProjects\\numbertrivia\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\DemoProjects\\numbertrivia\\api\\api.csproj",
+      "projectPath": "C:\\DemoProjects\\numbertrivia\\api\\api.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "c:\\DemoProjects\\numbertrivia\\api\\obj\\",
+      "outputPath": "C:\\DemoProjects\\numbertrivia\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
